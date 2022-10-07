@@ -1,1 +1,1 @@
-Task 2 - A script that changes the working directory to user home directory
+Task 3 - Display a current directory contents in a long format
