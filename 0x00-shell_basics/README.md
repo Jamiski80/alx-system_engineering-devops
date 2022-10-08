@@ -1,1 +1,1 @@
-Task 7 - command to move file
+Move the file betty from /tmp/ to /tmp/my_first_directory
