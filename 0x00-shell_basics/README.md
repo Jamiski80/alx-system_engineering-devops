@@ -1,1 +1,1 @@
-Task 6 - Script that create a directory
+Task 7 - command to move file
