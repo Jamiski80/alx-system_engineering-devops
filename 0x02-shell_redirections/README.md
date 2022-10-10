@@ -1,1 +1,1 @@
-display the content of thc file
+display the content
