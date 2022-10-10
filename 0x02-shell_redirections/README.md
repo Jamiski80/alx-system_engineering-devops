@@ -1,1 +1,1 @@
-display something with new line
+script to write in another
