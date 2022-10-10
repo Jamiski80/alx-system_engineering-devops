@@ -1,1 +1,1 @@
-Confused Smiley
+display the content of thc file
