@@ -1,1 +1,1 @@
-display line containing patter to root
+Display all the lines in the file /etc/passwd that do not contain the pattern
