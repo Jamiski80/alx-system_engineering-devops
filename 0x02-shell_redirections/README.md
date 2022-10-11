@@ -1,1 +1,1 @@
-script that deletes
+The more script
