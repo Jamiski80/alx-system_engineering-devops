@@ -1,1 +1,1 @@
-Create a script that decodes acrostics that use the first letter of each line.
+Script that prints hello, world
