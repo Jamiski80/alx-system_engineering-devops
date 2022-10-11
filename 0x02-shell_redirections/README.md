@@ -1,1 +1,1 @@
-take lists of words and print once
+display line containig root
