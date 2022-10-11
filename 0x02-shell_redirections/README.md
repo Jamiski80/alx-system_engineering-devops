@@ -1,1 +1,1 @@
-display 10 newest file
+take lists of words and print once
