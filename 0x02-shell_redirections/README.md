@@ -1,1 +1,1 @@
-something new
+script that deletes
