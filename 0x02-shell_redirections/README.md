@@ -1,1 +1,1 @@
-display line containig root
+display a number of line that has pattern
