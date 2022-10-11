@@ -1,1 +1,1 @@
-The more script
+display 10 newest file
